@@ -7,7 +7,7 @@
   <groupId>com.acme</groupId>
   <artifactId>acme</artifactId>
   <packaging>pom</packaging>
-  <version>7.19.0-SNAPSHOT</version><!-S->
+  <version>7.19.0-SNAPSHOT</version><!--M--><!--S-->
   <modules>
     <module>moduleone</module>
     <module>moduletwo</module>
